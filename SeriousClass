@@ -1,6 +1,6 @@
 public class SeriousClass {
 	public int logIn(String uname, String pass) {
-		return 0;
+		return 100;
 	}
 
  	public SeriousClass() {

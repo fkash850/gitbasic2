@@ -4,6 +4,7 @@ public class hello {
 		int a = 10;
 		int b = 20;
 
+		a = a - 2;
 		a = a - b;
 		a = a * b;
 	}
